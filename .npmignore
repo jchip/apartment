@@ -1,0 +1,7 @@
+node_modules
+.npmignore
+.jshintrc
+CHANGELOG.md
+.editorconfig
+.jshintignore
+/test
