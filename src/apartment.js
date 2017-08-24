@@ -1,7 +1,7 @@
 'use strict';
 
 var _ = require('lodash');
-var css = require('css');
+var css = require('pjcss');
 
 function toRegExp (text) { return new RegExp(text); }
 function toRegExpExact (text) { return new RegExp('^' + text + '$'); }
